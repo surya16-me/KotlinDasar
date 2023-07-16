@@ -5,7 +5,7 @@ fun main() {
     val kali = 12*12
     println("Hasil perkaliannya adalah $kali")
 
-    val bagi = 12/2
+    val bagi = 12/5
     println("Hasil bagi adalah $bagi")
 
     val modulus = 13%2
